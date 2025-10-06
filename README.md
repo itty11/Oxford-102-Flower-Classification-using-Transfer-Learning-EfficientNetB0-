@@ -16,7 +16,7 @@ Get the Oxford 102 Flower Dataset from Kaggle:
 
 https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset/data
 
-Extract it under your project folder:
+Extract it under the project folder:
 
 archive/
 
@@ -30,7 +30,7 @@ archive/
 
 Each folder should contain subfolders for each flower class (e.g., 1, 2, 3, …, 102).
 
-The script also auto-detects if your test folder doesn’t contain subfolders.
+The script also auto-detects if the test folder doesn’t contain subfolders.
 
 Training the Model
 
