@@ -18,10 +18,15 @@ https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset/data
 
 Extract it under your project folder:
 
-dataset/
-├── train/
-├── valid/
-└── test/
+archive/
+
+|──dataset/
+
+  ├── train/
+
+  ├── valid/
+
+  └── test/
 
 Each folder should contain subfolders for each flower class (e.g., 1, 2, 3, …, 102).
 
